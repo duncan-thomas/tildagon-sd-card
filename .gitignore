@@ -1,3 +1,4 @@
 kicad/hexpansion-backups
 fp-info-cache
+*.lck
 out
